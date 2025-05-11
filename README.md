@@ -10,7 +10,6 @@
 
 ### Model Fitting
 
-
-### 
+### Model Comparison
 
 
