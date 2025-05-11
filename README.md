@@ -9,8 +9,8 @@ The dataset used in this analysis contains credit card transactions in September
 |Variable|Explanatory|
 |---|---|
 |`V1,...,V28`|principle components obtained with PCA|
-|`Time`||
-|`Amount`||
+|`Time`|seconds elapsed between the first and each following transaction|
+|`Amount`|transaction amount|
 
 ### Exploratory Data Analysis
 
