@@ -2,7 +2,7 @@
 
 ### Introduction
 
-This project aims to develop a Neural Network Model for Credit Card Fraud Forecasting,, leveraging deep learning techniques to detect fraudulent transactions with high accuracy. The project’s ultimate goal is to improve fraud detection efficiency , reducing financial losses
+This project aims to develop a Neural Network Model for Credit Card Fraud Forecasting,, leveraging deep learning techniques to detect fraudulent transactions with high accuracy. The project’s ultimate goal is to improve fraud detection efficiency , reducing financial losses and safeguarding customers’ transactions.
 
 ### Data
 
