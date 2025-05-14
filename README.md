@@ -17,7 +17,7 @@ The dataset used in this analysis contains credit card transactions in September
 
 ### Exploratory Data Analysis
 
-Exploratory Data Analysis (EDA) reveals patterns, anomalies, and feature relationships through summary statistics and visualizations. Key insights guide feature engineering and modeling decisions,
+Exploratory Data Analysis (EDA) reveals patterns, anomalies, and feature relationships through summary statistics and visualizations. Key insights guide feature engineering and modeling decisions, ensuring a strong analytical foundation.
 
 ### Data Preprocessing
 
