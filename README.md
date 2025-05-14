@@ -17,6 +17,8 @@ The dataset used in this analysis contains credit card transactions in September
 
 ### Exploratory Data Analysis
 
+Exploratory Data Analysis (EDA) reveals patterns
+
 ### Data Preprocessing
 
 ### Model Fitting
