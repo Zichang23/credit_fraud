@@ -1,4 +1,4 @@
-## Neural Network Model for Credit Card Fraud Forecasting
+## Neural Network Model for Credit Card Fraud  Forecasting
 
 ### Introduction
 
